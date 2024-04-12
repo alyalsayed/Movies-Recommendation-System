@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Demo : https://movie-recommendation-system-mcbe.onrender.com/
+Demo : https://movie-recommendation-system-v1.streamlit.app/
