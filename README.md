@@ -5,3 +5,6 @@
 
 ## Kaggle notebook:
 - link : https://www.kaggle.com/code/alyalsayed/movies-recommender-system-with-deployment
+
+# Video link : 
+https://youtu.be/ObLE7GmiEE4
